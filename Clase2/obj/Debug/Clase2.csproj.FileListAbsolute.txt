@@ -1,0 +1,15 @@
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\bin\Debug\Clase2.exe.config
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\bin\Debug\Clase2.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\bin\Debug\Clase2.pdb
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\obj\Debug\Clase2.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\obj\Debug\Clase2.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase2\Clase2\obj\Debug\Clase2.pdb
+C:\Users\Visual_Dom\Desktop\Clase 02 C# Developer\adonetexample-master\Clase2\bin\Debug\Clase2.exe.config
+C:\Users\Visual_Dom\Desktop\Clase 02 C# Developer\adonetexample-master\Clase2\obj\Debug\Clase2.exe
+C:\Users\Visual_Dom\Desktop\Clase 02 C# Developer\adonetexample-master\Clase2\obj\Debug\Clase2.pdb
+C:\Users\Visual_Dom\Desktop\Clase 02 C# Developer\adonetexample-master\Clase2\bin\Debug\Clase2.exe
+C:\Users\Visual_Dom\Desktop\Clase 02 C# Developer\adonetexample-master\Clase2\bin\Debug\Clase2.pdb
+C:\Users\Visual_Dom\Desktop\Clase 02 C# Developer\adonetexample-master\Clase2\obj\Debug\Clase2.csprojResolveAssemblyReference.cache
+\\192.168.23.3\Compartido Visual A305\Proyecto2\Clase2\bin\Debug\Clase2.exe.config
+\\192.168.23.3\Compartido Visual A305\Proyecto2\Clase2\obj\Debug\Clase2.exe
+\\192.168.23.3\Compartido Visual A305\Proyecto2\Clase2\obj\Debug\Clase2.pdb
